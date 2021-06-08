@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">L07-SimpleToDo</string>
+    <string-array name="spinnerItems">
+        <item>Add a new task</item>
+        <item>Remove a task</item>
+    </string-array>
+    <string name="btn1">ADD</string>
+    <string name="btn2">DELETE</string>
+    <string name="btn3">CLEAR</string>
+</resources>
